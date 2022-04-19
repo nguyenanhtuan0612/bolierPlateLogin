@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+/.git
+
+# misc
+.DS_Store
+.env
+env.*
+Dockerfile
+.gitignore
+README.md
+npm-debug.log
+/**/*.log
+/doc
+/yarn.lock
